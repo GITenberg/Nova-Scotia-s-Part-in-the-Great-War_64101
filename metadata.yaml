@@ -1,0 +1,27 @@
+_repo: Nova-Scotia-s-Part-in-the-Great-War_64101
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Hunt, M. S.‏ (Markland Stuart)‏
+    aliases:
+    - Hunt, M. Stuart‏
+    - Hunt, Markland Stuart‏
+    gutenberg_agent_id: '52749'
+    url: http://www.gutenberg.org/2009/agents/52749
+description: ''
+gutenberg_issued: '2020-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Nova Scotia'
+- !lcsh 'World War, 1914-1918 -- Canada'
+- !lcc 'D501'
+- !lcc 'F1001'
+- GITenberg
+title: Nova Scotia's Part in the Great War
+url: http://www.gutenberg.org/ebooks/64101
